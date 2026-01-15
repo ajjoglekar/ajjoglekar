@@ -74,5 +74,5 @@ I believe:
 
 ## 📍 Find Me
 
-- LinkedIn: https://www.linkedin.com  
+- LinkedIn: https://www.linkedin.com/in/ajay-joglekar-46b427a9/ 
 - Portfolio (GitHub Pages): https://ajjoglekar.github.io
